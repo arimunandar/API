@@ -1,0 +1,193 @@
+{
+  "message" : "Successfully retrieved corporate action events for today",
+  "data" : {
+    "rightissue" : [
+      {
+        "rightissue_lastupdate" : "2020-10-22 11:11:16",
+        "company_symbol" : "DNAR",
+        "rightissue_trading_start" : "2020-11-02",
+        "rightissue_cumdate" : "2020-10-22",
+        "rightissue_recdate" : "2020-10-26",
+        "rightissue_new" : "4",
+        "rightissue_price" : "186",
+        "rightissue_exdate" : "2020-10-23",
+        "rightissue_id" : "2769",
+        "rightissue_factor" : "1.30769",
+        "rightissue_new_share" : "0",
+        "rightissue_price_factor" : "1.0559",
+        "rightissue_adj_factor" : "0",
+        "rightissue_subdate" : "0000-00-00",
+        "company_id" : "520",
+        "rightissue_old" : "13",
+        "rightissue_price_adj" : "0",
+        "rightissue_created" : "2020-10-15",
+        "rightissue_iqp_id" : "865",
+        "rightissue_lock" : "0",
+        "rightissue_trading_end" : "2020-11-06"
+      }
+    ],
+    "dividend" : [
+      {
+        "lastprice" : "8425",
+        "dividend_iqp_id" : "5521",
+        "company_symbol" : "ITMG",
+        "dividend_created" : "2020-11-03",
+        "dividend_id" : "72397",
+        "company_id" : "224",
+        "dividend_value" : 307,
+        "dividend_exdate" : "2020-11-10",
+        "dividend_datahash" : "01214a063c401f3a9b51f1725a0807fc",
+        "dividend_lock" : "0",
+        "dividend_paydate" : "2020-11-24",
+        "dividend_lastupdate" : "2020-11-03",
+        "dividend_cumdate" : "2020-11-09",
+        "dividend_recdate" : "2020-11-11"
+      }
+    ],
+    "pubex" : [
+      {
+        "puexp_date" : "2020-12-30",
+        "puexp_iqp_id" : "3961",
+        "puexp_time" : "10:09:00",
+        "company_id" : "512",
+        "puexp_lastupdate" : "2020-12-16 08:00:23",
+        "company_symbol" : "MDIA",
+        "puexp_venue" : "Live Event Video Confrence\t\t\t",
+        "puexp_id" : "1"
+      }
+    ],
+    "economic" : [
+      {
+        "econcal_time" : "04:00:00",
+        "econcal_actual" : "",
+        "econcal_id" : "1008822",
+        "econcal_date" : "2021-01-13",
+        "econcal_previous" : "$1.74B",
+        "econcal_lastdate" : "2018-07-20 15:03:26",
+        "econcal_month" : "JUL",
+        "econcal_item" : "Balance of Trade                            ",
+        "econcal_forecast" : "$ 0.95B"
+      }
+    ],
+    "ipo" : [
+      {
+        "ipo_id" : "2537",
+        "company_name" : "Planet Properindo Jaya",
+        "ipo_created" : "2020-09-02",
+        "company_symbol" : "0",
+        "ipo_listing_date" : "2020-09-15",
+        "ipo_data" : "{\"Price\":\"112\",\"Shares\":\"267,856,800\",\"%\":\"\",\"Offering Start\":\"2020-09-02 00:00:00\",\"Offering End\":\"2020-09-08 00:00:00\",\"Allotment Date\":\"\",\"Refund Date\":\"\",\"board\":\"\",\"registrar\":\"\"}",
+        "ipo_iqp_id" : "322"
+      }
+    ],
+    "stock_reverse" : [
+      {
+        "stocksplit_created" : "2020-03-18",
+        "company_symbol" : "AALI",
+        "company_id" : "1",
+        "stocksplit_lastupdate" : "2020-10-19 16:54:45",
+        "stocksplit_id" : "1494",
+        "stocksplit_recdate" : "2020-03-18",
+        "stocksplit_iqp_id" : "-1494",
+        "stocksplit_new_price" : "30",
+        "stocksplit_lock" : "0",
+        "stocksplit_cumdate" : "2020-03-18",
+        "stocksplit_old" : "12",
+        "stocksplit_factor" : "0.0833",
+        "stocksplit_new" : "1",
+        "stocksplit_exdate" : "2020-03-18",
+        "stocksplit_new_share" : "283.333"
+      }
+    ],
+    "warrant" : [
+      {
+        "wrant_serie" : "II",
+        "wrant_exc_from" : "2021-07-28",
+        "wrant_iqp_id" : "406",
+        "company_symbol" : "BRMS",
+        "wrant_exc_end" : "2024-01-22",
+        "company_id" : "91",
+        "wrant_trading_from" : "2021-02-01",
+        "wrant_total" : "24732002749",
+        "wrant_exc_price" : "70",
+        "wrant_lastupdate" : "2020-11-18 09:24:22",
+        "wrant_trading_end" : "2024-01-22",
+        "wrant_id" : "1"
+      }
+    ],
+    "today" : "2021-01-13",
+    "timezone" : 25200,
+    "stocksplit" : [
+      {
+        "stocksplit_created" : "2020-09-08",
+        "company_symbol" : "SIDO",
+        "company_id" : "502",
+        "stocksplit_lastupdate" : "2020-10-22 11:11:48",
+        "stocksplit_id" : "1498",
+        "stocksplit_recdate" : "2020-09-15",
+        "stocksplit_iqp_id" : "571",
+        "stocksplit_new_price" : "0",
+        "stocksplit_lock" : "0",
+        "stocksplit_cumdate" : "2020-09-11",
+        "stocksplit_old" : "1",
+        "stocksplit_factor" : "2",
+        "stocksplit_new" : "2",
+        "stocksplit_exdate" : "2020-09-14",
+        "stocksplit_new_share" : "0"
+      }
+    ],
+    "tender" : [
+      {
+        "tender_shares" : "2147483647",
+        "company_symbol" : "TRAM",
+        "company_id" : "433",
+        "tender_created" : "2018-06-29",
+        "tender_price" : "502",
+        "tender_end" : "2021-01-14",
+        "tender_paydate" : "1970-01-01",
+        "company_name" : "Trada Alam Minera Tbk.",
+        "tender_id" : "175",
+        "tender_percentage" : "0",
+        "tender_start" : "2021-01-13",
+        "tender_datahash" : "d6c14b99a077264d79caaa5768917441"
+      }
+    ],
+    "rups" : [
+      {
+        "rups_iqp_revised_date" : "2020-11-03",
+        "rups_venue" : "Finance Hall 2and Floor, Graha CIMB Niaga. Jl. Jend Sudirman Kav 58. Jakarta\t\t\t  ",
+        "company_symbol" : "SIDO",
+        "rups_iqp_type" : "rupsj",
+        "company_id" : "502",
+        "rups_created" : "2020-11-03",
+        "rups_iqp_rec_dt" : "2020-11-02",
+        "rups_id" : "113121",
+        "rups_date" : "2020-11-25 10:00:00",
+        "rups_iqp_id" : "7192",
+        "rups_iqp_remark" : "EGM",
+        "rups_datahash" : "4f60aa54c9f8249a41b0333078b15065",
+        "rups_iqp_agenda" : "RUPSLB\nPersetujuan Perubahan Pengurus Perseroan\nRUPST\n-\n\t\t\t\t\t  \t\t\t\t\t  ",
+        "rups_iqp_result" : null
+      }
+    ],
+    "bonus" : [
+      {
+        "stocksplit_created" : "2020-08-05",
+        "sahambonus_id" : "715",
+        "company_symbol" : "ASRM",
+        "company_id" : "43",
+        "sahambonus_new_price" : "0",
+        "sahambonus_lastupdate" : "2020-10-22 11:10:51",
+        "sahambonus_iqp_id" : "125",
+        "stocksplit_recdate" : "2020-08-31",
+        "sahambonus_new_share" : "0",
+        "stocksplit_cumdate" : "2020-08-27",
+        "stocksplit_old" : "10",
+        "stocksplit_factor" : "1.3",
+        "stocksplit_paymentdate" : "2020-09-03",
+        "stocksplit_new" : "3",
+        "stocksplit_exdate" : "2020-08-28"
+      }
+    ]
+  }
+}
