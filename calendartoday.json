@@ -6,7 +6,7 @@
         "rightissue_lastupdate" : "2020-10-22 11:11:16",
         "company_symbol" : "DNAR",
         "rightissue_trading_start" : "2020-11-02",
-        "rightissue_cumdate" : "2020-10-22",
+        "rightissue_cumdate" : "2021-01-15",
         "rightissue_recdate" : "2020-10-26",
         "rightissue_new" : "4",
         "rightissue_price" : "186",
@@ -95,7 +95,7 @@
         "stocksplit_old" : "12",
         "stocksplit_factor" : "0.0833",
         "stocksplit_new" : "1",
-        "stocksplit_exdate" : "2020-03-18",
+        "stocksplit_exdate" : "2021-01-15",
         "stocksplit_new_share" : "283.333"
       }
     ],
@@ -107,7 +107,7 @@
         "company_symbol" : "BRMS",
         "wrant_exc_end" : "2024-01-22",
         "company_id" : "91",
-        "wrant_trading_from" : "2021-02-01",
+        "wrant_trading_from" : "2021-01-15",
         "wrant_total" : "24732002749",
         "wrant_exc_price" : "70",
         "wrant_lastupdate" : "2020-11-18 09:24:22",
@@ -148,7 +148,7 @@
         "company_name" : "Trada Alam Minera Tbk.",
         "tender_id" : "175",
         "tender_percentage" : "0",
-        "tender_start" : "2021-01-13",
+        "tender_start" : "2021-01-15",
         "tender_datahash" : "d6c14b99a077264d79caaa5768917441"
       }
     ],
@@ -181,7 +181,7 @@
         "sahambonus_iqp_id" : "125",
         "stocksplit_recdate" : "2020-08-31",
         "sahambonus_new_share" : "0",
-        "stocksplit_cumdate" : "2020-08-27",
+        "stocksplit_cumdate" : "2021-01-15",
         "stocksplit_old" : "10",
         "stocksplit_factor" : "1.3",
         "stocksplit_paymentdate" : "2020-09-03",
