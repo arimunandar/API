@@ -132,7 +132,7 @@
         "stocksplit_old" : "1",
         "stocksplit_factor" : "2",
         "stocksplit_new" : "2",
-        "stocksplit_exdate" : "2020-09-14",
+        "stocksplit_exdate" : "2021-01-15",
         "stocksplit_new_share" : "0"
       }
     ],
