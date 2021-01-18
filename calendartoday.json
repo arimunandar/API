@@ -23,7 +23,7 @@
         "rightissue_created" : "2020-10-15",
         "rightissue_iqp_id" : "865",
         "rightissue_lock" : "0",
-        "rightissue_trading_end" : "2020-11-06"
+        "rightissue_trading_end" : "2021-01-18"
       }
     ],
     "dividend" : [
@@ -40,7 +40,7 @@
         "dividend_lock" : "0",
         "dividend_paydate" : "2020-11-24",
         "dividend_lastupdate" : "2020-11-03",
-        "dividend_cumdate" : "2021-01-15",
+        "dividend_cumdate" : "2021-01-18",
         "dividend_recdate" : "2020-11-11"
       }
     ],
@@ -61,7 +61,7 @@
         "econcal_time" : "04:00:00",
         "econcal_actual" : "",
         "econcal_id" : "1008822",
-        "econcal_date" : "2021-01-13",
+        "econcal_date" : "2021-01-18",
         "econcal_previous" : "$1.74B",
         "econcal_lastdate" : "2018-07-20 15:03:26",
         "econcal_month" : "JUL",
@@ -73,7 +73,7 @@
       {
         "ipo_id" : "2537",
         "company_name" : "Planet Properindo Jaya",
-        "ipo_created" : "2020-09-02",
+        "ipo_created" : "2021-01-18",
         "company_symbol" : "0",
         "ipo_listing_date" : "2020-09-15",
         "ipo_data" : "{\"Price\":\"112\",\"Shares\":\"267,856,800\",\"%\":\"\",\"Offering Start\":\"2020-09-02 00:00:00\",\"Offering End\":\"2020-09-08 00:00:00\",\"Allotment Date\":\"\",\"Refund Date\":\"\",\"board\":\"\",\"registrar\":\"\"}",
@@ -91,11 +91,11 @@
         "stocksplit_iqp_id" : "-1494",
         "stocksplit_new_price" : "30",
         "stocksplit_lock" : "0",
-        "stocksplit_cumdate" : "2020-03-18",
+        "stocksplit_cumdate" : "2021-01-18",
         "stocksplit_old" : "12",
         "stocksplit_factor" : "0.0833",
         "stocksplit_new" : "1",
-        "stocksplit_exdate" : "2021-01-15",
+        "stocksplit_exdate" : "2021-01-19",
         "stocksplit_new_share" : "283.333"
       }
     ],
@@ -107,7 +107,7 @@
         "company_symbol" : "BRMS",
         "wrant_exc_end" : "2024-01-22",
         "company_id" : "91",
-        "wrant_trading_from" : "2021-01-15",
+        "wrant_trading_from" : "2021-01-18",
         "wrant_total" : "24732002749",
         "wrant_exc_price" : "70",
         "wrant_lastupdate" : "2020-11-18 09:24:22",
@@ -132,7 +132,7 @@
         "stocksplit_old" : "1",
         "stocksplit_factor" : "2",
         "stocksplit_new" : "2",
-        "stocksplit_exdate" : "2021-01-15",
+        "stocksplit_exdate" : "2021-01-18",
         "stocksplit_new_share" : "0"
       }
     ],
@@ -143,7 +143,7 @@
         "company_id" : "433",
         "tender_created" : "2018-06-29",
         "tender_price" : "502",
-        "tender_end" : "2021-01-14",
+        "tender_end" : "2021-01-18",
         "tender_paydate" : "1970-01-01",
         "company_name" : "Trada Alam Minera Tbk.",
         "tender_id" : "175",
@@ -181,7 +181,7 @@
         "sahambonus_iqp_id" : "125",
         "stocksplit_recdate" : "2020-08-31",
         "sahambonus_new_share" : "0",
-        "stocksplit_cumdate" : "2021-01-15",
+        "stocksplit_cumdate" : "2021-01-18",
         "stocksplit_old" : "10",
         "stocksplit_factor" : "1.3",
         "stocksplit_paymentdate" : "2020-09-03",
