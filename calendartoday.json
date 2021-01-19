@@ -46,7 +46,7 @@
     ],
     "pubex" : [
       {
-        "puexp_date" : "2020-12-30",
+        "puexp_date" : "2021-01-19",
         "puexp_iqp_id" : "3961",
         "puexp_time" : "10:09:00",
         "company_id" : "512",
@@ -75,7 +75,7 @@
         "company_name" : "Planet Properindo Jaya",
         "ipo_created" : "2021-01-18",
         "company_symbol" : "0",
-        "ipo_listing_date" : "2020-09-15",
+        "ipo_listing_date" : "2021-01-19",
         "ipo_data" : "{\"Price\":\"112\",\"Shares\":\"267,856,800\",\"%\":\"\",\"Offering Start\":\"2020-09-02 00:00:00\",\"Offering End\":\"2020-09-08 00:00:00\",\"Allotment Date\":\"\",\"Refund Date\":\"\",\"board\":\"\",\"registrar\":\"\"}",
         "ipo_iqp_id" : "322"
       }
@@ -162,7 +162,7 @@
         "rups_created" : "2020-11-03",
         "rups_iqp_rec_dt" : "2020-11-02",
         "rups_id" : "113121",
-        "rups_date" : "2020-11-25 10:00:00",
+        "rups_date" : "2021-01-19 10:00:00",
         "rups_iqp_id" : "7192",
         "rups_iqp_remark" : "EGM",
         "rups_datahash" : "4f60aa54c9f8249a41b0333078b15065",
